@@ -39,6 +39,10 @@ function makesound(key){
       var kick = new Audio("sounds/kick-bass.mp3");
       kick.play();
       break;
+    case 'b':
+      var bikau = new Audio("sounds/bikau-media.mp3");
+      bikau.play();
+      break;
     default:
       console.log(innerHtmlListener);
   }

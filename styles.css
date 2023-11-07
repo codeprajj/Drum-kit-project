@@ -43,6 +43,9 @@ footer {
 .l {
   background-image: url("images/kick.png");
 }
+.bikau {
+  background-image: url("images/system.png");
+}
 
 .set {
   margin: 10% auto;
